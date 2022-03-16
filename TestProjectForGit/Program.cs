@@ -8,6 +8,7 @@ namespace TestProjectForGit
         {
             Console.WriteLine("I'm a test for git");
             Console.WriteLine("I've been edited locally");
+            Console.WriteLine("I've been edited remotely");
         }
     }
 }
